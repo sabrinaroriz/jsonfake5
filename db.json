@@ -1,0 +1,19 @@
+{
+  "listaclienteaula": [
+    {
+      "id": 1,
+      "idaula": 1,
+      "idcliente": 1
+    },
+    {
+      "id": 2,
+      "idaula": 1,
+      "idcliente": 2
+    },
+    {
+      "id": 3,
+      "idaula": 2,
+      "idcliente": 3
+    }
+  ]
+}
