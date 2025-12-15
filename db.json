@@ -17,3 +17,22 @@
     }
   ]
 }
+
+"controlepresenca": [
+  {
+    "id": 1,
+    "idcliente": 1,
+    "data": "2025-12-15",
+    "horaentrada": "08:12",
+    "horasaida": "09:35",
+    "status": "finalizado"
+  },
+  {
+    "id": 2,
+    "idcliente": 2,
+    "data": "2025-12-15",
+    "horaentrada": "10:05",
+    "horasaida": null,
+    "status": "dentro"
+  }
+]
