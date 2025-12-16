@@ -1,28 +1,10 @@
 {
-  "listaclienteaula": [
-    {
-      "id": 1,
-      "idaula": 1,
-      "idcliente": 1
-    },
-    {
-      "id": 2,
-      "idaula": 1,
-      "idcliente": 2
-    },
-    {
-      "id": 3,
-      "idaula": 2,
-      "idcliente": 3
-    }
-  ],
-
   "controlepresenca": [
     {
       "id": 1,
       "idcliente": 1,
       "data": "2025-12-15",
-      "horaentrada": "08:12",
+      "horaentrada": "08:10",
       "horasaida": "09:35",
       "status": "finalizado"
     },
@@ -32,8 +14,23 @@
       "data": "2025-12-15",
       "horaentrada": "10:05",
       "horasaida": null,
-      "status": "no estabelecimento"
+      "status": "no estabelecimento."
+    },
+    {
+      "id": 3,
+      "idcliente": 3,
+      "data": "2025-12-15",
+      "horaentrada": "18:20",
+      "horasaida": "19:45",
+      "status": "finalizado"
+    },
+    {
+      "id": 4,
+      "idcliente": 1,
+      "data": "2025-12-14",
+      "horaentrada": "07:55",
+      "horasaida": "09:00",
+      "status": "finalizado"
     }
   ]
 }
-
