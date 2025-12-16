@@ -3,7 +3,7 @@
     {
       "id": 1,
       "idcliente": 1,
-      "data": "2025-12-15",
+      "data": "15-12-2025",
       "horaentrada": "08:10",
       "horasaida": "09:35",
       "status": "finalizado"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "idcliente": 2,
-      "data": "2025-12-15",
+      "data": "15-12-2025",
       "horaentrada": "10:05",
       "horasaida": null,
       "status": "no estabelecimento."
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "idcliente": 3,
-      "data": "2025-12-15",
+      "data": "15-12-2025",
       "horaentrada": "18:20",
       "horasaida": "19:45",
       "status": "finalizado"
@@ -27,10 +27,11 @@
     {
       "id": 4,
       "idcliente": 1,
-      "data": "2025-12-14",
+      "data": "14-12-2025",
       "horaentrada": "07:55",
       "horasaida": "09:00",
       "status": "finalizado"
     }
   ]
 }
+
