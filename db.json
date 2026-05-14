@@ -1,4 +1,16 @@
 {
+  "listasclientesaulas": [
+    { "id": 1, "idCliente": 1, "idAula": 2 },
+    { "id": 2, "idCliente": 2, "idAula": 1 },
+    { "id": 3, "idCliente": 1, "idAula": 1 }
+  ],
+
+  "listasajustesfinanceirosfaturas": [
+    { "id": 1, "idAjusteFinanceiro": 1, "idFatura": 1 },
+    { "id": 2, "idAjusteFinanceiro": 1, "idFatura": 2 },
+    { "id": 3, "idAjusteFinanceiro": 2, "idFatura": 2 }
+  ],
+  
   "controlepresenca": [
     { "id": 1, "idcliente": 1, "data": "2025-12-01", "horaentrada": "08:00", "horasaida": "09:10", "status": "finalizado" },
     { "id": 2, "idcliente": 2, "data": "2025-12-01", "horaentrada": "09:30", "horasaida": "10:40", "status": "finalizado" },
